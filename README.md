@@ -21,4 +21,7 @@ See [USAGE.md](/USAGE.md) for more informations.
 ## 🚥 Current status
 
 <!-- <downtime-status> -->
+![Neppixel](/status/neppixel.xyz-443.svg)
+![Google DNS](/status/8.8.8.8-53.svg)
+![Unavailable website](/status/unavailable.website.com-443.svg)
 <!-- <downtime-status/> -->
