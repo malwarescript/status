@@ -21,15 +21,4 @@ See [USAGE.md](/USAGE.md) for more informations.
 ## 🚥 Current status
 
 <!-- <downtime-status> -->
-![Biraj Rai](/status/birajrai.tk-443.svg)
-![Gaurav Uchil](/status/gaurav87565.tk-443.svg)
-![Neppixel](/status/neppixel.xyz-443.svg)
-![Project Halloween](/status/halloween.neppixel.xyz-443.svg)
-![Lavalink Status Bot](/status/lavalink-status.neppixel.xyz-443.svg)
-![Lava Music Bot](/status/lavamusic.neppixel.xyz-443.svg)
-![WebStatus repository](/status/github.com-birajrai-web-status-443.svg)
-![Lavalink Proxy No.2](/status/lavalink.birajrai.tk-metrics-443.svg)
-![Lavalink Proxy No.1](/status/lavalink.neppixel.xyz-metrics-443.svg)
-![Google DNS](/status/8.8.8.8-53.svg)
-![Unavailable website](/status/unavailable.website.com-443.svg)
 <!-- <downtime-status/> -->
