@@ -3,52 +3,22 @@
 # "title" will be displayed as "human name" instead of "name" if specified
 # All defaults values can be overriden per host basis
 hosts:
-  # Example / test root domain
-  - name: birajrai.tk
-    title: Biraj Rai
-  - name: gaurav87565.tk
-    title: Gaurav Uchil
+
   - name: neppixel.xyz
     title: Neppixel
 
-  - name: halloween.neppixel.xyz
-    title: Project Halloween
-
-  - name: lavalink-status.neppixel.xyz
-    title: Lavalink Status Bot
-
-  - name: lavamusic.neppixel.xyz
-    title: Lava Music Bot
-
-  # Example / test url
-  - name: github.com/birajrai/web-status
-    title: WebStatus repository
-
-  - name: lavalink.birajrai.tk/metrics
-    title: Lavalink Proxy No.2
-
-  - name: lavalink.neppixel.xyz/metrics
-    title: Lavalink Proxy No.1
-
-
-  # Example / test ip with port using ncat
   - name: "8.8.8.8"
     title: Google DNS
     port: 53
     use: ncat
 
-
-  # Example / unavailable website
   - name: unavailable.website.com
     title: Unavailable website
 
-# Site configuration
+
 site:
-  # Title
   title: WebStatus
-  # Favicon / logo
   favicon: https://simon.lecoq.io/src/icon.png
-  # Refresh rate of status images for client
   refresh_rate_sec: 120
 
 # Default values
